@@ -1,6 +1,3 @@
-
-
-
 h1 {
   text-align: center;
   font-family: 'Abril Fatface', cursive;
@@ -21,14 +18,11 @@ p {
 }
 
 .boxed {
-
   margin: auto;
-
   box-sizing: content-box;
   width: 50%;
   border: solid #7BCCB5 5px;
   padding: 5px;
-  /* float: left; */
 }
 
 #main {
@@ -57,12 +51,3 @@ img {
   display: block;
   height: auto;
 }
-
-/* .row {
-  display: flex;
-}
-
-.column {
-  flex: 50%;
-  padding: 5px;
-} */
